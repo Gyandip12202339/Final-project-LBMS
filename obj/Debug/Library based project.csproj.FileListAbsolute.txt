@@ -1,0 +1,11 @@
+C:\Users\karki\OneDrive\Desktop\Library Final project\Library based project\bin\Debug\Library based project.exe.config
+C:\Users\karki\OneDrive\Desktop\Library Final project\Library based project\bin\Debug\Library based project.exe
+C:\Users\karki\OneDrive\Desktop\Library Final project\Library based project\bin\Debug\Library based project.pdb
+C:\Users\karki\OneDrive\Desktop\Library Final project\Library based project\obj\Debug\Library based project.csproj.AssemblyReference.cache
+C:\Users\karki\OneDrive\Desktop\Library Final project\Library based project\obj\Debug\Library_based_project.Form1.resources
+C:\Users\karki\OneDrive\Desktop\Library Final project\Library based project\obj\Debug\Library_based_project.Properties.Resources.resources
+C:\Users\karki\OneDrive\Desktop\Library Final project\Library based project\obj\Debug\Library based project.csproj.GenerateResource.cache
+C:\Users\karki\OneDrive\Desktop\Library Final project\Library based project\obj\Debug\Library based project.csproj.CoreCompileInputs.cache
+C:\Users\karki\OneDrive\Desktop\Library Final project\Library based project\obj\Debug\Library based project.exe
+C:\Users\karki\OneDrive\Desktop\Library Final project\Library based project\obj\Debug\Library based project.pdb
+C:\Users\karki\OneDrive\Desktop\Library Final project\Library Based project\obj\Debug\Library_based_project.Dashboard.resources
